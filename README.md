@@ -6,6 +6,16 @@ C# WinForms로 만든 **간단한 환자 진단 및 약물 처방 관리 애플�
 
 ---
 
+### 📽️ 시연 영상 (Demo Video)
+
+🎬 **프로젝트 시연 영상을 보시려면 아래 링크를 클릭하세요:**
+
+[▶️ 시연 영상 보기 (Google Drive)](https://drive.google.com/file/d/1YzYDIM3AfjivXI7eYqawlsRCKh924XBv/view?usp=sharing)
+
+> 📝 *해당 링크는 Google Drive로 연결되며, 영상 재생 또는 다운로드가 가능합니다.*
+
+---
+
 ## ✨ 주요 기능
 
 ### 🩺 신규 환자 진단 및 등록  
