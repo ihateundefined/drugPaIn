@@ -40,9 +40,13 @@ C# WinForms로 만든 **간단한 환자 진단 및 약물 처방 관리 애플�
 
 ## 💻 실행 방법
 
-1. Visual Studio 2019 이상에서 `drugPaIn.sln` 솔루션 열기  
-2. `Ctrl + F5`로 빌드 및 실행  
-3. 메인 폼에서 원하는 기능 버튼 클릭
+1. [Releases](https://github.com/ihateundefined/drugPaIn/releases) 페이지로 이동합니다  
+2. 최신 버전의 `.zip` 또는 `.exe` 파일을 다운로드합니다  
+3. 다운로드한 `.zip` 파일의 압축을 해제한 후,  
+   `.exe` 파일을 더블 클릭하여 실행합니다
+
+> 별도의 설치 과정 없이 바로 실행 가능합니다  
+> Windows SmartScreen 경고가 나올 경우, "추가 정보" > "실행"을 눌러주세요
 
 ---
 
